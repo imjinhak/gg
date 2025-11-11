@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Block Breaker",
+  "description": "A classic block breaker (Arkanoid-style) game built with React, TypeScript, and Tailwind CSS. Control the paddle to bounce the ball and destroy all the bricks.",
+  "requestFramePermissions": []
+}
